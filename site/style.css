@@ -13,11 +13,9 @@ section#container {
 	border: 1px solid black;
 	background-color: #BDBDBD;
 	margin-bottom: 15px;
-	height: 150px;
 	margin-right: 7.5px;
 	margin-left: 7.5px;
 	position: relative;
-	overflow: hidden;
 }
 
 a {
